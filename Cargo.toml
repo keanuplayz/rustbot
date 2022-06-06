@@ -9,4 +9,4 @@ edition = "2018"
 [dependencies]
 dotenv = "0.15"
 serenity = { version = "0.9", features = ["framework"] }
-tokio = { version = "0.2", features = ["macros"] }
+tokio = { version = "1.8", features = ["macros"] }
